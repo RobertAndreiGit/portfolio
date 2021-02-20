@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .section {
+        @apply p-1/10;
+    }
+
+    .main-text {
+        @apply font-title text-4xl;
+    }
+
+    .list-item {
+        @apply mb-12 relative text-right;
+    }
+
+    .list-icon {
+        @apply bg-black w-5 h-5 absolute top-0 left-1/2 overflow-hidden -mx-2.5 rounded-full;
+    }
+
+    .list-content {
+        @apply w-45/100;
+    }
+
+    .skill-icon {
+        @apply w-12 lg:w-16 bg-white bg-opacity-70 m-3 p-2 rounded-full;
+    }
+}
+
+.list-data::before {
+    content: "";
+    width: 3px;
+    height: 100%;
+    background: #000;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    top: 0;
+    position: absolute;
+}
+
+.list-item::after {
+    display: block;
+    clear: both;
+    content: "";
+}
