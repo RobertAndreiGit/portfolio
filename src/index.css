@@ -16,11 +16,11 @@
     }
 
     .list-icon {
-        @apply bg-black w-5 h-5 absolute top-0 left-1/2 overflow-hidden -mx-2.5 rounded-full;
+        @apply bg-black w-5 h-5 absolute top-0 left-0 lg:left-1/2 overflow-hidden -mx-2.5 rounded-full;
     }
 
     .list-content {
-        @apply w-45/100;
+        @apply lg:w-45/100 text-left w-95/100 float-right lg:float-none lg:text-right;
     }
 
     .skill-icon {
@@ -38,6 +38,12 @@
     transform: translate(-50%);
     top: 0;
     position: absolute;
+}
+
+@media (max-width: 1024px) {
+    .list-data::before {
+        left: 0;
+    }
 }
 
 .list-item::after {
