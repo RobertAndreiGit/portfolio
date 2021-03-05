@@ -1,5 +1,10 @@
 module.exports = {
-  purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
+  purge: {
+    content: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
+    options: {
+      keyframes: false,
+    },
+  },
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
@@ -31,12 +36,12 @@ module.exports = {
       },
       keyframes: {
         slideIn: {
-          "0%": { transform: "translateX(-100%)", opacity: "100%" },
-          "100%": { transform: "translateX(0)", opacity: "100%" },
+          "0%": { transform: "translateX(-100%)", opacity: "1" },
+          "100%": { transform: "translateX(0)", opacity: "1" },
         },
         slideOut: {
-          "0%": { transform: "translateX(0)", opacity: "100%" },
-          "100%": { transform: "translateX(100%)", opacity: "100%" },
+          "0%": { transform: "translateX(0)", opacity: "1" },
+          "100%": { transform: "translateX(100%)", opacity: "1" },
         },
       },
       margin: {

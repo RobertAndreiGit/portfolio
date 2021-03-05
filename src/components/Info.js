@@ -1,8 +1,6 @@
 import React from "react";
 import profile from "../assets/profile.jpg";
-{
-  /*import { ReactComponent as LinkedIn } from "../assets/linkedin.svg";*/
-}
+/*import { ReactComponent as LinkedIn } from "../assets/linkedin.svg";*/
 
 export default function Info() {
   return (
