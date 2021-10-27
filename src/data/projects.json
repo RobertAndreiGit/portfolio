@@ -19,15 +19,9 @@
             "description": "was fun"
         },
         {
-            "image": "./assets/bg-demopage.png",
-            "name": "Demo Page",
-            "tags": ["Endava", "JavaScript", "React", "MaterialUI"],
-            "description": "was fun"
-        },
-        {
             "image": "./assets/bg-hackabug.png",
             "name": "Hack-A-Bug",
-            "tags": ["StarCluster", "JavaScript", "React", "NextJS", "React-Query", "Styled Components"],
+            "tags": ["StarCluster", "Freelancer","JavaScript", "React", "NextJS", "React-Query", "Styled Components"],
             "description": "was fun",
             "link": "https://hackabug.uige.it/"
         },
