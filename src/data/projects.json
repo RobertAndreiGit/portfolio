@@ -61,18 +61,11 @@
       "link": "https://web.archive.org/web/20200806062106/https://www.kynisys.ai/"
     },
     {
-      "image": "./assets/bg-eventmanagement.jpg",
-      "name": "Internal Event Management Platform",
-      "tags": ["@Endava", "JavaScript", "React", "MaterialUI"],
-      "description": ""
-    },
-    {
       "image": "./assets/bg-hackabug.png",
       "name": "Hack-A-Bug",
       "tags": [
         "@Freelance",
         "@StarCluster",
-        "Freelancer",
         "JavaScript",
         "React",
         "NextJS",
@@ -85,15 +78,15 @@
     {
       "image": "./assets/bg-moonbase.png",
       "name": "moonbase.ai",
-      "tags": [
-        "@Freelance",
-        "@HarmonicLabs",
-        "Freelancer",
-        "JavaScript",
-        "React"
-      ],
+      "tags": ["@Freelance", "@HarmonicLabs", "JavaScript", "React"],
       "description": "",
       "link": "https://www.hlabs.xyz/"
+    },
+    {
+      "image": "./assets/bg-eventmanagement.jpg",
+      "name": "Internal Event Management Platform",
+      "tags": ["@Endava", "JavaScript", "React", "MaterialUI"],
+      "description": ""
     }
   ]
 }

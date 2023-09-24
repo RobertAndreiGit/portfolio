@@ -1,6 +1,8 @@
 import InformationList from "./components/Information/InformationList";
 import * as experiences from "./data/experience.json";
 import * as education from "./data/education.json";
+import * as projects from "./data/projects.json";
+import * as personalProjects from "./data/personalProjects.json";
 import Skills from "./components/Skills";
 import Info from "./components/Info";
 import ProjectsList from "./components/Projects/ProjectsList";
@@ -36,7 +38,12 @@ function App() {
       <div className="bg-projects relative">
         <div className="section">
           <p className="main-text">PROJECTS</p>
-          <ProjectsList />
+          <ProjectsList data={projects.data} />
+
+          <br />
+          <br />
+          <p className="main-text">PERSONAL PROJECTS</p>
+          <ProjectsList data={personalProjects.data} />
         </div>
       </div>
     </div>
