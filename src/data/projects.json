@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "image": "./assets/bg-vdp.png",
+      "name": "Viasat Distributor Portal",
+      "tags": [
+        "@ThinSlices",
+        "@Viasat",
+        "TypeScript",
+        "React",
+        "NextJS",
+        "MaterialUI",
+        "Storybook",
+        "NodeJS",
+        "AWS",
+        "Testing"
+      ],
+      "description": "",
+      "link": "https://distributorportal.viasat.com/"
+    },
+    {
       "image": "./assets/bg-myviasat.png",
       "name": "MyViasat",
       "tags": [
@@ -11,11 +29,12 @@
         "MaterialUI",
         "Storybook"
       ],
-      "description": ""
+      "description": "",
+      "link": "https://myviasat.viasatinternet.es/en-ES"
     },
     {
       "image": "./assets/bg-authsol.jpg",
-      "name": "Authentication Solution",
+      "name": "Callsign",
       "tags": [
         "@Endava",
         "@Callsign",
@@ -25,7 +44,8 @@
         "Jest",
         "Enzyme"
       ],
-      "description": ""
+      "description": "",
+      "link": "https://www.callsign.com/"
     },
     {
       "image": "./assets/bg-ai.png",
@@ -60,7 +80,7 @@
         "Styled Components"
       ],
       "description": "",
-      "link": "https://hackabug.uige.it/"
+      "link": "https://hackabug.co/"
     },
     {
       "image": "./assets/bg-moonbase.png",
