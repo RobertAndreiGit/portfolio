@@ -1,97 +1,50 @@
 {
-    "data": [
-        {
-            "image": "./assets/bg-authsol.jpg",
-            "name": "Authentication Solution",
-            "tags": ["Endava", "JavaScript", "React", "Sass", "Jest", "Enzyme"],
-            "description": "was fun"
-        },
-        {
-            "image": "./assets/bg-aim.jpg",
-            "name": "AI Marketplace",
-            "tags": ["Endava", "TypeScript", "React", "MaterialUI"],
-            "description": "was fun"
-        },
-        {
-            "image": "./assets/bg-eventmanagement.jpg",
-            "name": "Internal Event Management Platform",
-            "tags": ["Endava", "JavaScript", "React", "MaterialUI"],
-            "description": "was fun"
-        },
-        {
-            "image": "./assets/bg-hackabug.png",
-            "name": "Hack-A-Bug",
-            "tags": ["StarCluster", "Freelancer","JavaScript", "React", "NextJS", "React-Query", "Styled Components"],
-            "description": "was fun",
-            "link": "https://hackabug.uige.it/"
-        },
-        {
-            "image": "./assets/bg-ipc.png",
-            "name": "Interactive Pricing Component",
-            "tags": ["JavaScript", "React", "TailwindCSS"],
-            "description": "was fun",
-            "link": "https://quirky-hugle-37e6ea.netlify.app/"
-        },
-        {
-            "image": "./assets/bg-movie.png",
-            "name": "Movie Scene Segmentation",
-            "tags": ["BSc Thesis", "Computer Vision", "AI", "Java", "Python", "C/C++", "YOLOv4", "Darknet"],
-            "description": "was fun",
-            "link": "https://github.com/RobertAndreiGit/scene-segmentation"
-        },
-        {
-            "image": "./assets/bg-portfolio.png",
-            "name": "Portfolio Website",
-            "tags": ["JavaScript", "React", "TailwindCSS"],
-            "description": "was fun",
-            "link": "http://robertandrei.me/"
-        },
-        {
-            "image": "./assets/bg-twitchchat.png",
-            "name": "Twitch Chat Helper",
-            "tags": ["JavaScript", "React", "NodeJS", "Websockets", "OAuth 2.0"],
-            "description": "was fun",
-            "link": "https://github.com/RobertAndreiGit/twitch-helper"
-        },
-        {
-            "image": "./assets/bg-amazonclone.jpg",
-            "name": "Amazon Clone",
-            "tags": ["JavaScript", "React", "NodeJS", "MongoDB"],
-            "description": "was fun",
-            "link": "https://github.com/RobertAndreiGit/babazon"
-        },
-        {
-            "image": "./assets/bg-dndmap.png",
-            "name": "D&D Map Manager",
-            "tags": ["JavaScript", "React", "MaterialUI"],
-            "description": "was fun",
-            "link": "https://github.com/RobertAndreiGit/dnd-map-manager"
-        },
-        {
-            "image": "./assets/bg-postacademic.jpg",
-            "name": "PostAcademic",
-            "tags": ["College", "JavaScript", "React", "React Native"],
-            "description": "was fun",
-            "link": "https://github.com/RobertAndreiGit/Post_Academic"
-        },
-        {
-            "image": "./assets/bg-stegano.jpeg",
-            "name": "Image Steganography",
-            "tags": ["College", "Steganography", "Python"],
-            "description": "was fun",
-            "link": "https://github.com/RobertAndreiGit/image-steganography"
-        },
-        {
-            "image": "./assets/bg-grademanager.jpg",
-            "name": "Grade Manager",
-            "tags": ["College", "Java", "JavaFX"],
-            "description": "was fun"
-        },
-        {
-            "image": "./assets/bg-godot.png",
-            "name": "Godot Multiplayer Game",
-            "tags": ["Godot", "GDScript"],
-            "description": "was fun"
-        }     
-    ]
+  "data": [
+    {
+      "image": "./assets/bg-myviasat.png",
+      "name": "MyViasat",
+      "tags": [
+        "@ThinSlices",
+        "@Viasat",
+        "TypeScript",
+        "React",
+        "MaterialUI",
+        "Storybook"
+      ],
+      "description": ""
+    },
+    {
+      "image": "./assets/bg-authsol.jpg",
+      "name": "Authentication Solution",
+      "tags": ["@Endava", "JavaScript", "React", "Sass", "Jest", "Enzyme"],
+      "description": ""
+    },
+    {
+      "image": "./assets/bg-ai.png",
+      "name": "Kynisys - AI Marketplace",
+      "tags": ["@Endava", "TypeScript", "React", "MaterialUI"],
+      "description": ""
+    },
+    {
+      "image": "./assets/bg-eventmanagement.jpg",
+      "name": "Internal Event Management Platform",
+      "tags": ["@Endava", "JavaScript", "React", "MaterialUI"],
+      "description": ""
+    },
+    {
+      "image": "./assets/bg-hackabug.png",
+      "name": "Hack-A-Bug",
+      "tags": [
+        "@StarCluster",
+        "Freelancer",
+        "JavaScript",
+        "React",
+        "NextJS",
+        "React-Query",
+        "Styled Components"
+      ],
+      "description": "",
+      "link": "https://hackabug.uige.it/"
+    }
+  ]
 }
