@@ -28,7 +28,7 @@ export default function Info() {
       <div className="opacity-0 animate-slide-in-3">
         <a
           className="infoContac mt-5 capitalize text-black bg-yellow-500 px-4 py-3 rounded text-xl inline-block"
-          href="mailto:contact@robertandrei.me"
+          href="mailto:robert_amarandei@yahoo.com"
         >
           contact
         </a>
