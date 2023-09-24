@@ -16,14 +16,29 @@
     {
       "image": "./assets/bg-authsol.jpg",
       "name": "Authentication Solution",
-      "tags": ["@Endava", "JavaScript", "React", "Sass", "Jest", "Enzyme"],
+      "tags": [
+        "@Endava",
+        "@Callsign",
+        "JavaScript",
+        "React",
+        "Sass",
+        "Jest",
+        "Enzyme"
+      ],
       "description": ""
     },
     {
       "image": "./assets/bg-ai.png",
-      "name": "Kynisys - AI Marketplace",
-      "tags": ["@Endava", "TypeScript", "React", "MaterialUI"],
-      "description": ""
+      "name": "KynisysAI - AI Marketplace",
+      "tags": [
+        "@Endava",
+        "@Imagination Technologies",
+        "TypeScript",
+        "React",
+        "MaterialUI"
+      ],
+      "description": "",
+      "link": "https://web.archive.org/web/20200806062106/https://www.kynisys.ai/"
     },
     {
       "image": "./assets/bg-eventmanagement.jpg",
@@ -35,6 +50,7 @@
       "image": "./assets/bg-hackabug.png",
       "name": "Hack-A-Bug",
       "tags": [
+        "@Freelance",
         "@StarCluster",
         "Freelancer",
         "JavaScript",
@@ -45,6 +61,19 @@
       ],
       "description": "",
       "link": "https://hackabug.uige.it/"
+    },
+    {
+      "image": "./assets/bg-moonbase.png",
+      "name": "moonbase.ai",
+      "tags": [
+        "@Freelance",
+        "@HarmonicLabs",
+        "Freelancer",
+        "JavaScript",
+        "React"
+      ],
+      "description": "",
+      "link": "https://www.hlabs.xyz/"
     }
   ]
 }
