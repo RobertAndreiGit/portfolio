@@ -1,11 +1,10 @@
 {
   "data": [
     {
-      "image": "./assets/bg-vdp.png",
-      "name": "Viasat Distributor Portal",
+      "image": "",
+      "name": "Internet Provider Portal - NDA",
       "tags": [
         "@ThinSlices",
-        "@Viasat",
         "TypeScript",
         "React",
         "NextJS",
@@ -16,21 +15,20 @@
         "Testing"
       ],
       "description": "",
-      "link": "https://distributorportal.viasat.com/"
+      "link": ""
     },
     {
       "image": "./assets/bg-myviasat.png",
-      "name": "MyViasat",
+      "name": "Internet Provider Portal - NDA",
       "tags": [
         "@ThinSlices",
-        "@Viasat",
         "TypeScript",
         "React",
         "MaterialUI",
         "Storybook"
       ],
       "description": "",
-      "link": "https://myviasat.viasatinternet.es/en-ES"
+      "link": ""
     },
     {
       "image": "./assets/bg-authsol.jpg",
