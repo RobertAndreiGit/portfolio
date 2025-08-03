@@ -8,7 +8,7 @@
     }
 
     .main-text {
-        @apply font-title text-4xl;
+        @apply transition-all font-title text-4xl lg:mb-4;
     }
 
     .list-item {
@@ -16,15 +16,19 @@
     }
 
     .list-icon {
-        @apply bg-black w-5 h-5 absolute top-0 left-1/2 overflow-hidden -mx-2.5 rounded-full;
+        @apply transition-all bg-black w-5 h-5 absolute top-0 left-0 lg:left-1/2 overflow-hidden -mx-2.5 rounded-full;
     }
 
     .list-content {
-        @apply w-45/100;
+        @apply transition-all lg:w-45/100 text-left w-95/100 float-right lg:float-none lg:text-right;
     }
 
     .skill-icon {
-        @apply w-12 lg:w-16 bg-white bg-opacity-70 m-3 p-2 rounded-full;
+        @apply transition-all w-12 lg:w-16 h-12 lg:h-16 bg-white bg-opacity-70 m-3 p-2 rounded-full;
+    }
+
+    .list-data {
+        @apply transition-all m-7 lg:m-0;
     }
 }
 
@@ -40,8 +44,24 @@
     position: absolute;
 }
 
+@media (max-width: 1024px) {
+    .list-data::before {
+        left: 0;
+    }
+}
+
 .list-item::after {
     display: block;
     clear: both;
     content: "";
+}
+
+
+.list-data {
+  list-style-type: none;
+}
+
+
+.list-item::marker {
+    display: none;
 }

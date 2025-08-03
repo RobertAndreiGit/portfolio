@@ -1,88 +1,163 @@
 {
-    "data": [
-        {
-            "image": "https://thumbs.dreamstime.com/b/finger-hand-touching-pressing-virtual-lock-icon-symbol-technology-internet-digital-networking-security-concept-185284419.jpg",
-            "name": "Authentication Solution",
-            "tags": ["Endava", "JavaScript", "React", "Sass", "Jest", "Enzyme"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://www.iotworldtoday.com/files/2019/10/edge-computing-softweb-782x432.jpg",
-            "name": "AI Marketplace",
-            "tags": ["Endava", "TypeScript", "React", "MaterialUI"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://www.careeraddict.com/uploads/article/58252/illustration-woman-computer-calendar.jpg",
-            "name": "Internal Event Management Platform",
-            "tags": ["Endava", "JavaScript", "React", "MaterialUI"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://sitebemfeito.com.br/blog/wp-content/uploads/2016/10/landing-pages-o-que-sao-e-para-que-servem-blog-site-bem-feito-min.png",
-            "name": "Demo Page",
-            "tags": ["Endava", "JavaScript", "React", "MaterialUI"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://miro.medium.com/max/800/1*J5__5o2oPIjiaUi5YKqV6g.jpeg",
-            "name": "Hack-A-Bug",
-            "tags": ["StarCluster", "JavaScript", "React", "NextJS", "React-Query", "Styled Components"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://miro.medium.com/max/1600/1*8gmgaAkFdI-9OHY5cA93xQ.png",
-            "name": "Movie Scene Segmentation",
-            "tags": ["BSc Thesis", "Computer Vision", "AI", "Java", "Python", "C/C++", "YOLOv4", "Darknet"],
-            "description": "was fun"
-        },
-        {
-            "image": "./assets/bg-godot.png",
-            "name": "Godot Multiplayer Game",
-            "tags": ["Godot", "GDScript"],
-            "description": "was fun"
-        },
-        {
-            "image": "./assets/bg-portfolio.png",
-            "name": "Portfolio Website",
-            "tags": ["JavaScript", "React", "TailwindCSS"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://blog.twitch.tv/assets/uploads/51b0472564f07be2fadefbca4b301e92.png",
-            "name": "Twitch Chat Helper",
-            "tags": ["JavaScript", "React", "NodeJS", "Websockets"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://www.brsoftech.com/blog/wp-content/uploads/2020/03/Amazon-Clone-readymade-solution-for-your-dream-Online-eCommerce-business-1-min-1024x683.jpg",
-            "name": "Amazon Clone",
-            "tags": ["JavaScript", "React", "NodeJS", "MongoDB"],
-            "description": "was fun"
-        },
-        {
-            "image": "./assets/bg-dndmap.png",
-            "name": "D&D Map Manager",
-            "tags": ["JavaScript", "React", "MaterialUI"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://miro.medium.com/max/2560/1*dQyfOpFWmSxrmdOcQgW6OQ.jpeg",
-            "name": "Image Steganography",
-            "tags": ["College", "Steganography", "Python"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://i0.wp.com/haylesantella.com/wp-content/uploads/2017/08/IMG_2094.jpg?resize=1200%2C800&ssl=1",
-            "name": "PostAcademic",
-            "tags": ["College", "JavaScript", "React", "React Native"],
-            "description": "was fun"
-        },
-        {
-            "image": "https://filosofie.unibuc.ro/wp-content/uploads/macbook-college-laptop-main.jpg",
-            "name": "Grade Manager",
-            "tags": ["College", "Java", "JavaFX"],
-            "description": "was fun"
-        }
-    ]
+  "data": [
+    {
+      "image": "./assets/neuraprep.png",
+      "name": "NeuraPrep",
+      "tags": [
+        "@NeuraPrep",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "NextJS",
+        "MaterialUI",
+        "Python",
+        "Flask",
+        "AWS"
+      ],
+      "link": "https://neuraprep.com/"
+    },
+    {
+      "image":"./assets/bmj.png",
+      "name": "BMJ Journals",
+      "tags": [
+        "@BMJ",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "NextJS",
+        "MaterialUI",
+        "Storybook"
+      ],
+      "description": "BMJ Journals is a platform for accessing medical journals and articles, providing a comprehensive resource for healthcare professionals.",
+      "link": "https://journals.bmj.com/"
+    },
+    {
+      "image": "./assets/dashboard.png",
+      "name": "Internal Engineering Platform",
+      "tags": [
+        "@Porsche",
+        "@Porsche Digital",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "ApexCharts"
+      ],
+      "description": "Internal platform for managing engineering projects, resources, and workflows."
+    },
+    {
+      "image": "./assets/Addison-Lee-courier.webp",
+      "name": "Addison Lee - Shopify Extension",
+      "tags": [
+        "@Addison Lee",
+        "Remix",
+        "Polaris",
+        "Shopify CLI",
+        "Shopify App Bridge",
+        "React",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "description": "Addison Lee app enables merchants to offer a premium Same-Day delivery experience using time slots.",
+      "link": "https://apps.shopify.com/addison-lee"
+    },
+    {
+      "image": "./assets/ppcblue.png",
+      "name": "PPC Blue - Electric Mobility",
+      "tags": [
+        "@PPC",
+        "@PPC Blue",
+        "React",
+        "NextJS",
+        "MaterialUI",
+        "Storybook",
+        "NodeJS",
+        "AWS",
+        "Testing"
+      ],
+      "description": "PPC is the leading clean energy company in Southeast Europe. PPC blue is its new brand for electric mobility in Romania.",
+      "link": "https://www.ppcblue.ro/"
+    },
+    {
+      "image": "./assets/dashboard.png",
+      "name": "Internet Provider Portal",
+      "tags": [
+        "@NDA",
+        "TypeScript",
+        "React",
+        "NextJS",
+        "MaterialUI",
+        "Storybook",
+        "NodeJS",
+        "AWS",
+        "ApexCharts",
+        "Testing"
+      ],
+      "description": ""
+    },
+    {
+      "image": "./assets/bg-myviasat.png",
+      "name": "MyViasat",
+      "tags": [
+        "@Viasat",
+        "TypeScript",
+        "React",
+        "MaterialUI",
+        "Storybook"
+      ],
+      "description": ""
+    },
+    {
+      "image": "./assets/bg-authsol.jpg",
+      "name": "Callsign",
+      "tags": [
+        "@Callsign",
+        "JavaScript",
+        "React",
+        "Sass",
+        "Jest",
+        "Enzyme"
+      ],
+      "description": "",
+      "link": "https://www.callsign.com/"
+    },
+    {
+      "image": "./assets/bg-ai.png",
+      "name": "KynisysAI - AI Marketplace",
+      "tags": [
+        "@Imagination Technologies",
+        "TypeScript",
+        "React",
+        "MaterialUI"
+      ],
+      "description": "",
+      "link": "https://web.archive.org/web/20200806062106/https://www.kynisys.ai/"
+    },
+    {
+      "image": "./assets/bg-hackabug.png",
+      "name": "Hack-A-Bug",
+      "tags": [
+        "@StarCluster",
+        "JavaScript",
+        "React",
+        "NextJS",
+        "React-Query",
+        "Styled Components"
+      ],
+      "description": "",
+      "link": "https://hackabug.co/"
+    },
+    {
+      "image": "./assets/bg-moonbase.png",
+      "name": "moonbase.ai",
+      "tags": ["@HarmonicLabs", "JavaScript", "React"],
+      "description": "",
+      "link": "https://www.hlabs.xyz/"
+    },
+    {
+      "image": "./assets/bg-eventmanagement.jpg",
+      "name": "Internal Event Management Platform",
+      "tags": ["@Endava", "JavaScript", "React", "MaterialUI"],
+      "description": ""
+    }
+  ]
 }

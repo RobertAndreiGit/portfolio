@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "image": "./assets/bg-ipc.png",
+      "name": "Interactive Pricing Component",
+      "tags": ["JavaScript", "React", "TailwindCSS"],
+      "description": "",
+      "link": "https://quirky-hugle-37e6ea.netlify.app/"
+    },
+    {
+      "image": "./assets/bg-movie.png",
+      "name": "Movie Scene Segmentation",
+      "tags": [
+        "@BSc Thesis",
+        "Computer Vision",
+        "AI",
+        "Java",
+        "Python",
+        "C/C++",
+        "YOLOv4",
+        "Darknet"
+      ],
+      "description": "",
+      "link": "https://github.com/RobertAndreiGit/scene-segmentation"
+    },
+    {
+      "image": "./assets/bg-portfolio.png",
+      "name": "Portfolio Website",
+      "tags": ["JavaScript", "React", "TailwindCSS"],
+      "description": "",
+      "link": "https://stupefied-meitner-f7f420.netlify.app/"
+    },
+    {
+      "image": "./assets/bg-twitchchat.png",
+      "name": "Twitch Chat Helper",
+      "tags": ["JavaScript", "React", "NodeJS", "Websockets", "OAuth 2.0"],
+      "description": "",
+      "link": "https://github.com/RobertAndreiGit/twitch-helper"
+    },
+    {
+      "image": "./assets/bg-amazonclone.jpg",
+      "name": "Amazon Clone",
+      "tags": ["JavaScript", "React", "NodeJS", "MongoDB"],
+      "description": "",
+      "link": "https://github.com/RobertAndreiGit/babazon"
+    },
+    {
+      "image": "./assets/bg-dndmap.png",
+      "name": "D&D Map Manager",
+      "tags": ["JavaScript", "React", "MaterialUI"],
+      "description": "",
+      "link": "https://github.com/RobertAndreiGit/dnd-map-manager"
+    },
+    {
+      "image": "./assets/bg-postacademic.jpg",
+      "name": "PostAcademic",
+      "tags": ["College", "JavaScript", "React", "React Native"],
+      "description": "",
+      "link": "https://github.com/RobertAndreiGit/Post_Academic"
+    },
+    {
+      "image": "./assets/bg-stegano.jpeg",
+      "name": "Image Steganography",
+      "tags": ["College", "Steganography", "Python"],
+      "description": "",
+      "link": "https://github.com/RobertAndreiGit/image-steganography"
+    },
+    {
+      "image": "./assets/bg-grademanager.jpg",
+      "name": "Grade Manager",
+      "tags": ["College", "Java", "JavaFX"],
+      "description": ""
+    },
+    {
+      "image": "./assets/bg-godot.png",
+      "name": "Godot Multiplayer Game",
+      "tags": ["Godot", "GDScript"],
+      "description": ""
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 {
-    "data": [
-      {
-        "title": "Endava",
-        "subtitle": "Front-end Developer, full-time",
-        "start": "Aug 2019",
-        "end": "present",
-        "description": "Worked on multiple React projects. Involved in interviews for a JavaScript internship.",
-        "technologies": "React, JS, CSS3, HTML5"
-      },
-      {
-        "title": "StarCluster",
-        "subtitle": "Front-end Developer, freelancer",
-        "start": "Sep 2020",
-        "end": "Nov 2020",
-        "description": "Collaborated with the existing devs in order to finish leftover work.",
-        "technologies": "React, JS, CSS3, HTML5"
-      }
-    ]
-  }
+  "data": [
+    {
+      "title": "Freelancer / Contractor",
+      "subtitle": "Software Engineer",
+      "start": "Sep 2020",
+      "end": "present",
+      "description": "Developed various projects using React, Node.js, and other technologies. Focused on delivering high-quality software solutions.",
+      "technologies": "React, JS, CSS3, HTML5"
+    },
+    {
+      "title": "Endava",
+      "subtitle": "Software Engineer, full-time",
+      "start": "Aug 2019",
+      "end": "Mar 2021",
+      "description": "Worked on multiple React projects. Involved in interviews for a JavaScript internship.",
+      "technologies": "React, JS, CSS3, HTML5"
+    }
+  ]
+}
