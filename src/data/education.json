@@ -1,11 +1,16 @@
 {
-    "data": [
-      {
-        "title": "Babes-Bolyai University",
-        "subtitle": "Bachelor's degree, Computer Science",
-        "start": 2017,
-        "end": 2020,
-        "description": "My final project was on a movie scene segmentation method using computer vision and AI."
-      }
-    ]
-  }
+  "data": [
+    {
+      "title": "BSc in Computer Science",
+      "subtitle": "Babeș-Bolyai University of Cluj-Napoca",
+      "end": 2020,
+      "description": [
+        "Completed a broad curriculum covering algorithms, data structures, databases, operating systems, and web technologies.",
+        "Studied foundational mathematics including linear algebra, discrete mathematics, probability, and mathematical logic, which supported more advanced topics in computer science.",
+        "Gained practical experience through coursework in software engineering, systems programming, and project-based labs.",
+        "Developed core skills in both backend and frontend development, as well as theoretical computer science.",
+        "Final project focused on movie scene segmentation using computer vision and AI, applying pattern recognition techniques to automate multimedia analysis."
+      ]
+    }
+  ]
+}

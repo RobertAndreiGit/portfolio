@@ -8,7 +8,8 @@
     }
 
     .main-text {
-        @apply transition-all font-title text-4xl lg:mb-4;
+        @apply transition-all font-title text-4xl 
+        /* lg:mb-4; */
     }
 
     .list-item {
@@ -16,19 +17,22 @@
     }
 
     .list-icon {
-        @apply transition-all bg-black w-5 h-5 absolute top-0 left-0 lg:left-1/2 overflow-hidden -mx-2.5 rounded-full;
+        @apply transition-all bg-black w-5 h-5 absolute top-0 left-0 overflow-hidden -mx-2.5 rounded-full;
+        /* lg:left-1/2 */
     }
 
     .list-content {
-        @apply transition-all lg:w-45/100 text-left w-95/100 float-right lg:float-none lg:text-right;
+        @apply transition-all text-left w-95/100 float-right;
+         /* lg:float-none lg:text-right lg:w-45/100 */
     }
 
     .skill-icon {
-        @apply transition-all w-12 lg:w-16 h-12 lg:h-16 bg-white bg-opacity-70 m-3 p-2 rounded-full;
+        @apply transition-all w-12 h-12 bg-white bg-opacity-70 m-3 p-2 rounded-full;
+        /* lg:w-16 lg:h-16 */
     }
 
     .list-data {
-        @apply transition-all m-7 lg:m-0;
+        @apply transition-all m-7 /*lg:m-0;*/
     }
 }
 
@@ -44,11 +48,11 @@
     position: absolute;
 }
 
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) { */
     .list-data::before {
         left: 0;
     }
-}
+/* } */
 
 .list-item::after {
     display: block;
@@ -65,3 +69,21 @@
 .list-item::marker {
     display: none;
 }
+
+.skill-tag {
+  background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+  color: white;
+  padding: 0.35rem 0.75rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  user-select: none;
+  white-space: nowrap;
+  transition: background-color 0.2s ease;
+}
+
+.skill-tag:hover {
+  background-color: rgba(0, 0, 0, 0.75);
+  cursor: default;
+}
+
+

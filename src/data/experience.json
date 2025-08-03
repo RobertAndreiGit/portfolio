@@ -1,20 +1,44 @@
 {
   "data": [
     {
-      "title": "Freelancer / Contractor",
-      "subtitle": "Software Engineer",
-      "start": "Sep 2020",
+      "start": "2021",
       "end": "present",
-      "description": "Developed various projects using React, Node.js, and other technologies. Focused on delivering high-quality software solutions.",
-      "technologies": "React, JS, CSS3, HTML5"
+      "title": "Software Engineer",
+      "subtitle": "Thinslices",
+      "description": [
+        "Develop frontend features using TypeScript, React, and Next.js, supporting scalable solutions for enterprise and consumer applications.",
+        "Automate CI/CD pipelines to boost release velocity and improve developer experience.",
+        "Scale backend infrastructure using Node.js and AWS services (Lambda, Step Functions, S3, SES) to support growing product needs.",
+        "Utilize Storybook to document and develop UI components, enhancing design consistency and reusability.",
+        "Mentor junior developers through pair programming and reviews; translate engineering work into business value during demos."
+      ]
     },
     {
-      "title": "Endava",
-      "subtitle": "Software Engineer, full-time",
-      "start": "Aug 2019",
-      "end": "Mar 2021",
-      "description": "Worked on multiple React projects. Involved in interviews for a JavaScript internship.",
-      "technologies": "React, JS, CSS3, HTML5"
+      "start": "2018",
+      "end": "present",
+      "title": "Freelance Software Engineer",
+      "subtitle": "",
+      "description": [
+        "Lead a monorepo migration for a large-scale consumer platform, accelerating CI/CD performance and reducing code redundancy across multiple teams.",
+        "Implement a flexible monthly meal credit system used by 6K+ diners and adopted by 250+ corporate clients, driving $200K+ in spend and managing $18M in credits within 90 days post-launch.",
+        "Remediate critical CVEs in key infrastructure dependencies, significantly improving system-wide security posture.",
+        "Enhance operational observability by defining SLOs, setting burn alerts, and building actionable dashboards with improved telemetry.",
+        "Unify code quality standards across engineering teams by standardizing ESLint configurations and linting practices.",
+        "Improve release stability by implementing comprehensive end-to-end test coverage and refactoring legacy code based on modern UX/UI standards.",
+        "Deliver urgent production fixes with rapid turnaround in high-pressure environments, supporting B2B clients with minimal oversight."
+      ]
+    },
+    {
+      "start": "2019",
+      "end": "2021",
+      "title": "Frontend Engineer",
+      "subtitle": "Endava",
+      "description": [
+        "Built responsive and testable interfaces using React, Jest, and Enzyme to meet design and QA requirements.",
+        "Integrated WebSocket support to enable real-time data updates and improve UX.",
+        "Developed a full-stack demo platform independently, demonstrating initiative and technical range.",
+        "Conducted interviews for JavaScript interns, supporting technical hiring and company growth."
+      ]
     }
   ]
 }

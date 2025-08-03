@@ -10,7 +10,7 @@ import ProjectsList from "./components/Projects/ProjectsList";
 function App() {
   return (
     <div className="overflow-hidden">
-      <div className="w-full min-h-screen">
+      <div className="w-full">
         <div className="bg-white flex-2">
           <Info />
         </div>
