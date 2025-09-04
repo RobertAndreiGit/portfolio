@@ -1,6 +1,5 @@
 import InformationList from "./components/Information/InformationList";
 import  experiences from "./data/experience.json";
-import education from "./data/education.json";
 import  projects from "./data/projects.json";
 import Skills from "./components/Skills";
 import Info from "./components/Info";
