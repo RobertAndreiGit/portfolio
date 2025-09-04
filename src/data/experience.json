@@ -1,20 +1,20 @@
 {
   "data": [
     {
-      "title": "Freelancer / Contractor",
-      "subtitle": "Software Engineer",
-      "start": "Sep 2020",
+      "start": "2021",
       "end": "present",
-      "description": "Developed various projects using React, Node.js, and other technologies. Focused on delivering high-quality software solutions.",
-      "technologies": "React, JS, CSS3, HTML5"
+      "title": "Senior Frontend Engineer",
+      "subtitle": "Thinslices",
+      "description": 
+        "At Thinslices, I develop frontend features using TypeScript, React, and Next.js, delivering scalable solutions for both enterprise and consumer applications. I work on automating CI/CD pipelines to improve release speed and developer experience, while leveraging Node.js and AWS services to support growing product demands. I also document UI components with Storybook to enhance design consistency and mentor junior developers, translating technical work into clear business value during demos."
     },
     {
-      "title": "Endava",
-      "subtitle": "Software Engineer, full-time",
-      "start": "Aug 2019",
-      "end": "Mar 2021",
-      "description": "Worked on multiple React projects. Involved in interviews for a JavaScript internship.",
-      "technologies": "React, JS, CSS3, HTML5"
+      "start": "2019",
+      "end": "2021",
+      "title": "Frontend Engineer",
+      "subtitle": "Endava",
+      "description": 
+        "At Endava, I built responsive, testable web interfaces using React, Jest, and Enzyme, integrating real-time WebSocket updates to improve user experience. I developed a full-stack demo platform independently and contributed to team growth by conducting technical interviews for JavaScript interns."
     }
   ]
 }

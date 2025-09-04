@@ -5,9 +5,9 @@
       "name": "NeuraPrep",
       "tags": [
         "@NeuraPrep",
-        "React",
-        "JavaScript",
         "TypeScript",
+        "JavaScript",
+        "React",
         "NextJS",
         "MaterialUI",
         "Python",
@@ -21,9 +21,9 @@
       "name": "BMJ Journals",
       "tags": [
         "@BMJ",
-        "React",
         "JavaScript",
         "TypeScript",
+        "React",
         "NextJS",
         "MaterialUI",
         "Storybook"
@@ -37,9 +37,9 @@
       "tags": [
         "@Porsche",
         "@Porsche Digital",
-        "React",
         "JavaScript",
         "TypeScript",
+        "React",
         "ApexCharts"
       ],
       "description": "Internal platform for managing engineering projects, resources, and workflows."
@@ -49,13 +49,13 @@
       "name": "Addison Lee - Shopify Extension",
       "tags": [
         "@Addison Lee",
+        "TypeScript",
+        "JavaScript",
         "Remix",
         "Polaris",
         "Shopify CLI",
         "Shopify App Bridge",
-        "React",
-        "JavaScript",
-        "TypeScript"
+        "React"
       ],
       "description": "Addison Lee app enables merchants to offer a premium Same-Day delivery experience using time slots.",
       "link": "https://apps.shopify.com/addison-lee"
@@ -66,9 +66,11 @@
       "tags": [
         "@PPC",
         "@PPC Blue",
+        "TypeScript",
+        "JavaScript",
         "React",
         "NextJS",
-        "MaterialUI",
+        "Ant Design",
         "Storybook",
         "NodeJS",
         "AWS",
@@ -100,6 +102,7 @@
       "tags": [
         "@Viasat",
         "TypeScript",
+        "JavaScript",
         "React",
         "MaterialUI",
         "Storybook"
@@ -111,6 +114,7 @@
       "name": "Callsign",
       "tags": [
         "@Callsign",
+        "TypeScript",
         "JavaScript",
         "React",
         "Sass",
@@ -141,7 +145,8 @@
         "React",
         "NextJS",
         "React-Query",
-        "Styled Components"
+        "Styled Components",
+        "TailWind CSS"
       ],
       "description": "",
       "link": "https://hackabug.co/"
@@ -149,7 +154,7 @@
     {
       "image": "./assets/bg-moonbase.png",
       "name": "moonbase.ai",
-      "tags": ["@HarmonicLabs", "JavaScript", "React"],
+      "tags": ["@HarmonicLabs", "JavaScript", "React", "TailWind CSS"],
       "description": "",
       "link": "https://www.hlabs.xyz/"
     },

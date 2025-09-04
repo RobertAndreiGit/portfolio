@@ -1,0 +1,12 @@
+{
+  "Languages": ["JavaScript", "TypeScript"],
+  "Frameworks & Libraries": [
+    "React", "Next.js", "Storybook", "Material UI", "Tailwind CSS", "Node.js"
+  ],
+  "Others": [
+    "AWS",
+    "CI/CD",
+    "Testing",
+    "Postman", "Git", "Datadog", "Agile", "Scrum"
+  ]
+}

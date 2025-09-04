@@ -1,0 +1,17 @@
+{
+  "Languages": ["JavaScript", "TypeScript", "HTML5", "CSS3/SCSS"],
+  "Frameworks & Libraries": [
+    "React", "Next.js", "Redux", "React Query", "React Native",
+    "Tailwind CSS", "Material UI", "Node.js", "Electron", "Formik",
+    "Yup", "Styled Components", "Remix", "Polaris", "Shopify CLI",
+    "Ant Design", "React Context API"
+  ],
+  "DevOps & Infra": [
+    "AWS (S3, Lambda, Step Functions, SES, DynamoDB)",
+    "CI/CD (Spinnaker, Jenkins, GitHub Actions)",
+    "Heroku", "Netlify", "Vercel"
+  ],
+  "Testing": ["Jest", "Enzyme", "React Testing Library", "TestCafe", "Postman"],
+  "Tools": ["Git", "Datadog", "Strapi", "Contentful"],
+  "Processes": ["Agile", "Scrum", "Accessibility", "Responsive Design"]
+}
